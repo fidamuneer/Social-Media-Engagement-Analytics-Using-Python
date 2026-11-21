@@ -65,4 +65,3 @@ This project helped me apply my Python learning to a real-world data analysis wo
 https://drive.google.com/file/d/1jHc2T4BvhjLMP9OPGgxbuLZ13J_V9NfG/view?usp=sharing
 
 
-**Project completed as part of my Data Analytics learning journey.**
